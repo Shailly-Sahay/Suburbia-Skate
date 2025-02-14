@@ -8,7 +8,7 @@ Suburbia Skate is an exciting skateboard website where you can explore and custo
 
 - **React + Next.js** – Fast and modern web framework
 - **Tailwind CSS** – Clean and responsive styling
-- **GSAP** – Smooth animations for an engaging experience
+- **GSAP, ThreeJS** – Smooth animations for an engaging experience
 - **React Three Fiber** – Bring skateboards to life in 3D
 - **Matter.js** – Real-world physics for interactive elements
 
