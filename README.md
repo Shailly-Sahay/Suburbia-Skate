@@ -35,18 +35,6 @@ Suburbia Skate is an exciting skateboard website where you can explore and custo
    ```bash
    npm run dev
    ```
-4. Open `http://localhost:3000/` and start customizing your skateboard!
-
-## 🔮 What's Next?
-
-- **Add More Customization Options** – More wheels, decks, and colors!
-- **Save Your Design** – Store and share your skateboard creations.
-- **Multiplayer Mode?** – Imagine designing skateboards with friends!
-
-## 📜 License
-
-This project is open-source under the MIT License.
-
 ---
 
-**Built with passion by the Suburbia Skate team 🛹🔥**
+**Built with passion by Shailly Sahay 🛹🔥**
